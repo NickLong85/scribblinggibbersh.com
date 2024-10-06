@@ -9,6 +9,10 @@ body {
   color: #000000
   background-image: url('CompBack.png');
   background-repeat: repeat;
+  margin-top: 20px;
+  margin-right: 20%;
+  margin-left: 20%;
+  marign-bottom: 30%;
 }
 
 header {
