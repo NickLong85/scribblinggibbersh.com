@@ -17,7 +17,7 @@ body {
 header {
   padding: 45px 45px;
   background-color: #ffffff;
-  align-items: center;
+  align-content: center;
 }
 
 .button {
@@ -29,7 +29,7 @@ header {
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
-  align-items: right;
+  float: right;
 }
 
 .card{
