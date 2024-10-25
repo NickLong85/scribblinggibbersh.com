@@ -5,7 +5,7 @@
 }
 
 body {
-  font-family: caveat;
+  font-family: "Caveat";
   background-image: url('./CompBack.png');
   background-repeat: repeat;
   margin-top: 20px;
@@ -33,7 +33,7 @@ header {
 }
 
 .card{
- font-family: caveat, cursive;
+ font-family: "Caveat", cursive;
  background-color: white;
  background: repeating-linear-gradient(white, white 25px, #9198e5 26px, #9198e5 27px);
  background-position-y: 34px;
